@@ -25,11 +25,6 @@ Amante do REACT 💚
 ### Gmail: philiperochad.js@gmail.com
 ### Discord: Philipe R.#1926
 
-
-<div style="display: inline-block"><br/>
-    <img align="center" src="https://th.bing.com/th/id/R.b7c74a5a88202c0bf60b73e94456648c?rik=NvmcGxEmBt4ucg&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fleagueoflegends%2fimages%2ff%2ff1%2fMordekaiser_Render.png&ehk=L%2bAkLbOKjKUu3RFeJ5Kq1%2fD08l7gxTa8Q3JfAtj8NpQ%3d&risl=&pid=ImgRaw&r=0" alt="HTML5">
-</div><br />
-
 Valeu!✨
 
 
