@@ -17,13 +17,10 @@
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </div><br />
 
-Engajado em desenvolvimento web, fascinado com tecnologias e styles do frontend, sempre aprendendo mais e mais. <br/>
-Amante do REACT 💚
+Engajado em desenvolvimento web, fascinado com tecnologias para desenvolvimento no frontend e backend
 
 ## Contato ☎️
-
 ### Gmail: philiperochad.js@gmail.com
-### Discord: Philipe R.#1926
 
 Valeu!✨
 
